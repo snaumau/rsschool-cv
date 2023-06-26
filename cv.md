@@ -1,5 +1,4 @@
 # Siarhei Naumau
-***
 ### Junior Full Stack Developer
 ***
 ### Contact information:
@@ -7,9 +6,10 @@
 
 **E-mail**: s.naumau@gmail.com
 
-[https://t.me/snaumau] (Telegram)
+[Telegram](https://t.me/snaumau "Telegram")
 
-[https://www.linkedin.com/in/snaumau/] (LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/snaumau/ "LinkedIn")
+
 ***
 ### About
 I'm a skilled software developer with expertise in .NET, ASP.NET Core, and database management, have successfully designed
@@ -51,6 +51,14 @@ const quarterOf = (month) => {
 }
 ```
 ***
+### Experience
+#### .NET Developer
+#### JSC "Business Partner" · Full-time
+* Design and implement new features, conduct thorough testing to ensure that the system is fully functional and meets the requirements of clients
+* Develop complex CRM systems using .NET 7 and ASP.NET Core
+* Develop and manage database using NHibernate and MySql, ensure data integrity and performance optimization
+* Develop responsive and user-friendly interfaces using JavaScript, Kendo UI, HTML, and CSS
+***
 ### Courses:
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * ASP.NET Core Web API: The Complete Guide
@@ -58,6 +66,6 @@ const quarterOf = (month) => {
 * HTML Essential Training 
 * Introduction to CSS
 ***
-## Languages:
+### Languages:
 * English - B1
 * Russian - Native
